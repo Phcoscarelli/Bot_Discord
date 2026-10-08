@@ -39,4 +39,4 @@ async def sai(ctx):
 
 
 
-bot.run("MTM3NDY0NzM2NTE5MzE3MTA3Ng.G5Iok-.E4f3Wb9J4z40OcyT9A_tbYvx5SFTbrwF3Nvumo")
+bot.run("")
